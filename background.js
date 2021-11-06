@@ -1,8 +1,6 @@
-/* We will use declarativeContent to pick which urls are to be blocked
-    * Reddit
-    * Twitter
-    * Instagram
-    * Youtube
+/* This JS file is NOT NEEDED for the extension
+but I will be leaving it here since I may want to
+use it for some other piece of this extension
 */
 
 
