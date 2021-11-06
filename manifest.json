@@ -13,5 +13,17 @@
   "permissions": [
     "declarativeContent",
     "declarativeNetRequest"
-  ]
+  ],
+  "action": {
+    "default_icon": {
+      "16": "/images/secondZip/favicon-16x16.png",
+      "32": "/images/secondZip/favicon-32x32.png",
+      "128": "/images/secondZip/favicon-128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/secondZip/favicon-16x16.png",
+    "32": "/images/secondZip/favicon-32x32.png",
+    "128": "/images/secondZip/favicon-128.png"
+  }
 }
