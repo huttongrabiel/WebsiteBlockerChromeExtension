@@ -25,4 +25,6 @@ to add
 to the manifest.json file
 
 # Chrome Extension ID
+```
 jcdmohhnocpiglipicdkpenhekjnmbhc
+```
