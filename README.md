@@ -24,7 +24,7 @@ to add
 ```
 to the manifest.json file
 
-# Chrome Extension ID
+# Chrome Extension URL
 ```
 chrome.google.com/webstore/detail/website-blocker/jcdggklflfaofpoigbmdkopebljjpldc/related?hl=en&authuser=0
 ```
